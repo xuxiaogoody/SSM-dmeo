@@ -1,3 +1,3 @@
 # SSM-dmeo
-该项目是2019年自学spring mvc是根据网络教程实现的一个简单的spring+springmvc+mybatis整合的项目。练习了基于xml的事务配置，连接池配置；
+该项目是2019年自学spring mvc时根据网络教程实现的一个简单的spring+springmvc+mybatis整合的项目。练习了基于xml的事务配置，连接池配置；
 springmvc的中文乱码解决方案Filter的使用，mybatis的基本操作，mybatis的全局配置等。
